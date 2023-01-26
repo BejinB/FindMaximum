@@ -63,7 +63,9 @@ i,
 ![image](https://user-images.githubusercontent.com/118367518/214829766-7bc5bd62-d701-4c22-824d-b93ea03de915.png)
 ii,
 ![image](https://user-images.githubusercontent.com/118367518/214829836-fff711d5-7610-4e66-a500-608f270d56d8.png)
+
 iii,
+
 ![image](https://user-images.githubusercontent.com/118367518/214829897-3c62dab6-5901-4585-8aa0-3cc7e37dd5a4.png)
 
 ## Result:
